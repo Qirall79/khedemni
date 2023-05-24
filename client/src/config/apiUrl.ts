@@ -1,3 +1,3 @@
-const apiUrl = "http://localhost:5000";
+const apiUrl = "https://khdemni.onrender.com";
 
 export default apiUrl;
